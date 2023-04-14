@@ -1,5 +1,5 @@
-### Hi there 👋
+### About
 
-I'm not a developer.
+Pull request to fix typo🤙
 
 <a rel="me" href="https://infosec.exchange/@sk"></a>
